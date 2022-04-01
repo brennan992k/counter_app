@@ -1,17 +1,29 @@
-# counter_app
+### Redesigning The Default Flutter Counter App
 
-A new Flutter project.
+## PROJECT INFO
 
-## Getting Started
+<img src="./hqdefault_26966.webp" width="400">
 
-This project is a starting point for a Flutter application.
+## PROJECT INFO
 
-A few resources to get you started if this is your first Flutter project:
+<img src="./hqdefault_46866.webp" width="400">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## MOTIVATION
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# counter_app
+<img src="./hqdefault_122966.webp" width="400">
+
+## SKETCHING FOR THE NEW DESIGN
+
+<img src="./hqdefault_150433.webp" width="400">
+
+## COLORSINPO - I GET MY COLOR FROM HERE
+
+<img src="./hqdefault_271866.webp" width="400">
+
+## LIGHT & DARK
+
+<img src="./hqdefault_309866.webp" width="400">
+
+## FUNCTIONALITY & FEATURES
+
+<img src="./hqdefault_343266.webp" width="400">
